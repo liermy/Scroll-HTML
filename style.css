@@ -188,17 +188,18 @@ div#seta {
     }
 
     .setasNP {
-        width: 20px;
-        margin-top: 0px;
-        padding: 3rem 1rem;
+        width: 15px;
+        margin-top: 5px;
+        padding: 32px 10px;
         background: rgb(0, 0, 0, 0);
         transition: 75ms linear;
         transform: scale(0.9);
     }
     
     .setasNP:hover {
-        padding: 3rem 1rem;
+        padding: 32px 10px;
         background: rgb(0, 0, 0, 0.4);
         transform: scale(1);
     }
+}
 }
